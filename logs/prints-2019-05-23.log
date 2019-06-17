@@ -1,0 +1,4 @@
+12:14:15.202 [main] INFO  TestFramework.optimizingPostData - {"status":"OK","place_id":"14bdf876094422915835fc45886fd6cc","scope":"APP","reference":"2e1a184d0ef17cefe130096e7d2d31f42e1a184d0ef17cefe130096e7d2d31f4","id":"2e1a184d0ef17cefe130096e7d2d31f4"}
+12:14:15.275 [main] INFO  TestFramework.optimizingPostData - 14bdf876094422915835fc45886fd6cc
+06:31:31.725 [main] INFO  TestFramework.optimizingPostData - Host Information : http://216.10.245.166
+06:31:34.523 [main] INFO  TestFramework.optimizingPostData - {"status":"OK","place_id":"d9ac48003cfb89c6bada8165221b7bbd","scope":"APP","reference":"ac16d6a10b76ea8390dc2529d689ff72ac16d6a10b76ea8390dc2529d689ff72","id":"ac16d6a10b76ea8390dc2529d689ff72"}

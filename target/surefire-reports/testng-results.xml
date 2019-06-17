@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8404" started-at="2019-05-24T01:01:31Z" finished-at="2019-05-24T01:01:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8404" started-at="2019-05-24T01:01:31Z" finished-at="2019-05-24T01:01:40Z">
+      <class name="TestFramework.PostXMLData">
+        <test-method status="PASS" signature="postXMLData()[pri:0, instance:TestFramework.PostXMLData@2b91004a]" name="postXMLData" duration-ms="411" started-at="2019-05-24T01:01:34Z" finished-at="2019-05-24T01:01:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postXMLData -->
+      </class> <!-- TestFramework.PostXMLData -->
+      <class name="TestFramework.optimizingPostData">
+        <test-method status="PASS" signature="postData()[pri:0, instance:TestFramework.optimizingPostData@28f2a10f]" name="postData" duration-ms="2828" started-at="2019-05-24T01:01:31Z" finished-at="2019-05-24T01:01:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postData -->
+      </class> <!-- TestFramework.optimizingPostData -->
+      <class name="TestFramework.createIssue">
+        <test-method status="PASS" signature="createJiraIssue()[pri:0, instance:TestFramework.createIssue@6da21078]" name="createJiraIssue" duration-ms="224" started-at="2019-05-24T01:01:37Z" finished-at="2019-05-24T01:01:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createJiraIssue -->
+      </class> <!-- TestFramework.createIssue -->
+      <class name="TestFramework.CreateComment">
+        <test-method status="PASS" signature="getResources()[pri:0, instance:TestFramework.CreateComment@4229bb3f]" name="getResources" is-config="true" duration-ms="11" started-at="2019-05-24T01:01:31Z" finished-at="2019-05-24T01:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResources -->
+        <test-method status="PASS" signature="getResources()[pri:0, instance:TestFramework.DynamicJson@f736069]" name="getResources" is-config="true" duration-ms="1" started-at="2019-05-24T01:01:31Z" finished-at="2019-05-24T01:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResources -->
+        <test-method status="PASS" signature="getResources()[pri:0, instance:TestFramework.ExcelDriven@56cdfb3b]" name="getResources" is-config="true" duration-ms="0" started-at="2019-05-24T01:01:31Z" finished-at="2019-05-24T01:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResources -->
+        <test-method status="PASS" signature="getResources()[pri:0, instance:TestFramework.createIssue@6da21078]" name="getResources" is-config="true" duration-ms="1" started-at="2019-05-24T01:01:31Z" finished-at="2019-05-24T01:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResources -->
+        <test-method status="PASS" signature="getResources()[pri:0, instance:TestFramework.UpdateComment@7fee8714]" name="getResources" is-config="true" duration-ms="0" started-at="2019-05-24T01:01:31Z" finished-at="2019-05-24T01:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResources -->
+        <test-method status="PASS" signature="getResources()[pri:0, instance:TestFramework.optimizingPostData@28f2a10f]" name="getResources" is-config="true" duration-ms="0" started-at="2019-05-24T01:01:31Z" finished-at="2019-05-24T01:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResources -->
+        <test-method status="PASS" signature="createJiraComment()[pri:0, instance:TestFramework.CreateComment@4229bb3f]" name="createJiraComment" duration-ms="123" started-at="2019-05-24T01:01:38Z" finished-at="2019-05-24T01:01:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createJiraComment -->
+      </class> <!-- TestFramework.CreateComment -->
+      <class name="TestFramework.ExcelDriven">
+        <test-method status="PASS" signature="excelDriven()[pri:0, instance:TestFramework.ExcelDriven@56cdfb3b]" name="excelDriven" duration-ms="1353" started-at="2019-05-24T01:01:38Z" finished-at="2019-05-24T01:01:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelDriven -->
+      </class> <!-- TestFramework.ExcelDriven -->
+      <class name="TestFramework.UpdateComment">
+        <test-method status="PASS" signature="updateJiraComment()[pri:0, instance:TestFramework.UpdateComment@7fee8714]" name="updateJiraComment" duration-ms="163" started-at="2019-05-24T01:01:38Z" finished-at="2019-05-24T01:01:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateJiraComment -->
+      </class> <!-- TestFramework.UpdateComment -->
+      <class name="TestFramework.GetData">
+        <test-method status="PASS" signature="getData()[pri:0, instance:TestFramework.GetData@2fb3536e]" name="getData" duration-ms="1802" started-at="2019-05-24T01:01:35Z" finished-at="2019-05-24T01:01:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+      </class> <!-- TestFramework.GetData -->
+      <class name="TestFramework.DynamicJson">
+        <test-method status="PASS" signature="addBook(java.lang.String, java.lang.String)[pri:0, instance:TestFramework.DynamicJson@f736069]" name="addBook" duration-ms="240" started-at="2019-05-24T01:01:37Z" data-provider="BooksData" finished-at="2019-05-24T01:01:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[fsafdesde]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[453452]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method status="PASS" signature="addBook(java.lang.String, java.lang.String)[pri:0, instance:TestFramework.DynamicJson@f736069]" name="addBook" duration-ms="241" started-at="2019-05-24T01:01:37Z" data-provider="BooksData" finished-at="2019-05-24T01:01:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dgdddfff]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[545662]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method status="PASS" signature="addBook(java.lang.String, java.lang.String)[pri:0, instance:TestFramework.DynamicJson@f736069]" name="addBook" duration-ms="229" started-at="2019-05-24T01:01:37Z" data-provider="BooksData" finished-at="2019-05-24T01:01:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dhgsghdff]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[6537662]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+      </class> <!-- TestFramework.DynamicJson -->
+      <class name="TestFramework.PostData">
+        <test-method status="PASS" signature="postData()[pri:0, instance:TestFramework.PostData@169e6180]" name="postData" duration-ms="241" started-at="2019-05-24T01:01:38Z" finished-at="2019-05-24T01:01:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postData -->
+      </class> <!-- TestFramework.PostData -->
+      <class name="TestFramework.DeletePlace">
+        <test-method status="PASS" signature="postandDeleteData()[pri:0, instance:TestFramework.DeletePlace@20ccf40b]" name="postandDeleteData" duration-ms="508" started-at="2019-05-24T01:01:34Z" finished-at="2019-05-24T01:01:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postandDeleteData -->
+      </class> <!-- TestFramework.DeletePlace -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
